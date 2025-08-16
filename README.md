@@ -82,11 +82,6 @@ I am strategic, detail-oriented, innovative, and highly collaborative, qualities
 
 ###
 
-<div align="center">
-  <img src="https://www.linkedin.com/in/francis-afful-gyan-2b27a5153//v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
