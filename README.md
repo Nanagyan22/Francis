@@ -31,6 +31,29 @@
 ---
 
 
+Introducing myself
+🌟 Data Scientist | Data Analyst | Business Intelligence Professional
+Hi, Welcome to my portfolio where I showcase my projects, achievements, and passion for data science! 😊
+
+I’m a Data Scientist specializing in data analytics, machine learning, business intelligence, and AI-powered workflow automated development, with expertise in leveraging advanced analytics, predictive modeling, and intelligent automation to uncover valuable insights and drive impactful decisions.
+
+My experience spans across healthcare, finance, risk management, and operational efficiency, where I have consistently delivered actionable solutions, including the development of conversational AI tools and the automation of complex workflows to boost productivity.
+
+I am detail-oriented, strategic, creative, and highly collaborative. These qualities form the foundation of my work, enabling me to translate complex data into meaningful insights that inform decision-making, streamline processes, and optimize outcomes.
+
+⚡Core Competencies
+Data Analysis: Analyze complex datasets (within any industry) to identify trends and patterns.
+Machine Learning: Apply machine learning techniques using Python and relevant libraries.
+Data Visualization: Create insightful visualizations using Tableau and Power BI.
+SQL & Database Management: Query and manage data across various database systems with SQL.
+🌍 Connect with Me
+GitHub LinkedIn Email
+
+💼Portfolio 👇
+Disclaimer⚠️: The datasets, analyses, and reports presented in this portfolio are synthetic and created solely for demonstration purposes. They do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. These examples are designed to showcase my technical skills in data science and data analysis while adhering to ethical guidelines and respecting data privacy.
+
+
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
