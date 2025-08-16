@@ -41,7 +41,7 @@ I am strategic, detail-oriented, innovative, and highly collaborative, qualities
 
 
 
- **⚡C ore Competencies**
+ **⚡Core Competencies**
 
 📌 Machine Learning & AI: Build predictive models and intelligent systems with Python and ML libraries.
 
