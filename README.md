@@ -70,7 +70,7 @@ I am strategic, detail-oriented, innovative, and highly collaborative, qualities
 <img src="./github.png" width=50 height=50 alt="Nanagyan22" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https:"https://www.linkedin.com/in/francis-afful-gyan-2b27a5153/" target="_blank">
+<a href="https://www.linkedin.com/in/francis-afful-gyan-2b27a5153/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
