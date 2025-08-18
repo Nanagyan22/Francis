@@ -70,7 +70,7 @@ I am strategic, detail-oriented, innovative, and highly collaborative, qualities
 <img src="./github.png" width=50 height=50 alt="Nanagyan22" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://https://www.linkedin.com/in/francis-afful-gyan-2b27a5153/" target="_blank">
+<a href="https:"https://www.linkedin.com/in/francis-afful-gyan-2b27a5153/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -87,7 +87,7 @@ I am strategic, detail-oriented, innovative, and highly collaborative, qualities
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-**💼Portfolio 👇**
+**💼Portfolio👇**
 <br>
 *Disclaimer⚠️*: The datasets, analyses, and reports included in this portfolio are entirely synthetic and created solely for illustrative purposes. They do not contain any real proprietary, confidential, or sensitive information from any organization or individual. These examples are intended to demonstrate my technical competencies in data science, machine learning, and data analysis while strictly adhering to ethical standards and respecting data privacy.
 
